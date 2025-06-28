@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I`m Oleksanr Shvab
 
-<!--
-**OleksandrTEB/OleksandrTEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About me:
+  - 🌱 Studying: HTML, CSS, JavaScript.
+  - 💬 Ask me about: About anything, I'll try to answer
 
-Here are some ideas to get you started:
+## 🛠️ Stack:
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
+
+## 📫 How to contact me:
+- [Discord](https://discord.com/users/123456789012345678/vikusia.1523)
+- [Telegram](https://t.me/awgng)
+- [Email](mailto:fiuhad@gmail.com)
