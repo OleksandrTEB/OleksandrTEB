@@ -8,6 +8,15 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![GIT](https://skillicons.dev/icons?i=git)
+![GIT](https://skillicons.dev/icons?i=github)
+![GIT](https://skillicons.dev/icons?i=vscode)
+![GIT](https://skillicons.dev/icons?i=powershell)
+![GIT](https://skillicons.dev/icons?i=php)
+![GIT](https://skillicons.dev/icons?i=npm)
+![GIT](https://skillicons.dev/icons?i=mysql)
+![GIT](https://skillicons.dev/icons?i=bootstrap)
+![GIT](https://skillicons.dev/icons?i=windows)
 
 ## 📊 Statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
