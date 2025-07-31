@@ -21,7 +21,6 @@
 ![GIT](https://skillicons.dev/icons?i=docker)
 ![GIT](https://skillicons.dev/icons?i=angular)
 ![GIT](https://skillicons.dev/icons?i=typescript)
-![GIT](https://skillicons.dev/icons?i=typescript)
 ![GIT](https://skillicons.dev/icons?i=phpstorm)
 ![GIT](https://skillicons.dev/icons?i=webstorm)
 ![GIT](https://skillicons.dev/icons?i=figma)
