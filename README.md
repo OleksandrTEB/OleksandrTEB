@@ -17,6 +17,18 @@
 ![GIT](https://skillicons.dev/icons?i=mysql)
 ![GIT](https://skillicons.dev/icons?i=bootstrap)
 ![GIT](https://skillicons.dev/icons?i=windows)
+![GIT](https://skillicons.dev/icons?i=nodejs)
+![GIT](https://skillicons.dev/icons?i=docker)
+![GIT](https://skillicons.dev/icons?i=angular)
+![GIT](https://skillicons.dev/icons?i=typescript)
+![GIT](https://skillicons.dev/icons?i=typescript)
+![GIT](https://skillicons.dev/icons?i=phpstorm)
+![GIT](https://skillicons.dev/icons?i=webstorm)
+![GIT](https://skillicons.dev/icons?i=figma)
+![GIT](https://skillicons.dev/icons?i=jquery)
+![GIT](https://skillicons.dev/icons?i=markdown)
+![GIT](https://skillicons.dev/icons?i=vite)
+![GIT](https://skillicons.dev/icons?i=svg)
 
 ## 📊 Statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
