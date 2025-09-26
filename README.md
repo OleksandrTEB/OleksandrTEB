@@ -1,7 +1,7 @@
 ## Hi there 👋, I`m Oleksanr Shvab
 
 ## 🧑‍💻 About me:
-  - 🌱 Studying: HTML, CSS, JavaScript.
+  - 🌱 Studying: Angular, Electron.
   - 💬 Ask me about: About anything, I'll try to answer
 
 ## 🛠️ Stack:
@@ -11,8 +11,10 @@
 ![GIT](https://skillicons.dev/icons?i=git)
 ![GIT](https://skillicons.dev/icons?i=github)
 ![GIT](https://skillicons.dev/icons?i=vscode)
+![GIT](https://skillicons.dev/icons?i=visualstudio)
 ![GIT](https://skillicons.dev/icons?i=powershell)
 ![GIT](https://skillicons.dev/icons?i=php)
+![GIT](https://skillicons.dev/icons?i=cs)
 ![GIT](https://skillicons.dev/icons?i=npm)
 ![GIT](https://skillicons.dev/icons?i=mysql)
 ![GIT](https://skillicons.dev/icons?i=bootstrap)
@@ -27,6 +29,7 @@
 ![GIT](https://skillicons.dev/icons?i=jquery)
 ![GIT](https://skillicons.dev/icons?i=markdown)
 ![GIT](https://skillicons.dev/icons?i=vite)
+![GIT](https://skillicons.dev/icons?i=electron)
 ![GIT](https://skillicons.dev/icons?i=svg)
 
 ## 📊 Statistics:
@@ -34,6 +37,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
 
 ## 📫 How to contact me:
-- [Discord](https://discord.com/users/123456789012345678/vikusia.1523)
 - [Telegram](https://t.me/awgng)
 - [Email](mailto:fiuhad@gmail.com)
