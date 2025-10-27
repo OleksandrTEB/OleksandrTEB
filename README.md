@@ -37,5 +37,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
 
 ## 📫 How to contact me:
-- [Telegram](https://t.me/awgng)
+- [Telegram](
+- )
 - [Email](mailto:fiuhad@gmail.com)
