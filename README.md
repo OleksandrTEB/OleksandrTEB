@@ -35,8 +35,3 @@
 ## 📊 Statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrTEB&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrTEB&layout=compact&theme=tokyonight)
-
-## 📫 How to contact me:
-- [Telegram](
-- )
-- [Email](mailto:fiuhad@gmail.com)
